@@ -28,8 +28,8 @@
 
 1.  리포지토리 클론:
     ```bash
-    git clone [리포지토리 URL]
-    cd Quantum_AI_Project
+    git clone https://github.com/sunjoonk/quantum-competition.git
+    cd quantum-competition
     ```
 
 2.  의존성 설치:
