@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data & Output
+output/
+*.csv
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 업로드할 파일만 예외 처리
+# (모델과 노트북은 추적)
+!quantum.ipynb
+!best_model.pth

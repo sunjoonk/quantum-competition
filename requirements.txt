@@ -1,0 +1,6 @@
+pennylane
+torch
+torchvision
+numpy
+pandas
+scikit-learn
